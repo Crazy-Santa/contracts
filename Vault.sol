@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.4;
 
+import "https://github.com/Crazy-Santa/contracts/blob/main/XMAS.sol";
+
 contract Vault{
 
     // DECLARING VARIABLES
